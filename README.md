@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+DODAJCIE DO katalogu views pliki Home.vue i Achievements.vue JAKBY SIĘ PRUŁO
